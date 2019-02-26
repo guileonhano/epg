@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190226000000 -0300" stop="20190226010000 -0300" channel="Canção Nova">
+    <title lang="pt">O Amor Vencerá</title>
+    <desc lang="pt">Programa voltado à esperança, superação das dificuldades, angústias, sofrimentos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226010000 -0300" stop="20190226020000 -0300" channel="Canção Nova">
+    <title lang="pt">Nosso Canto Nosso Chão</title>
+    <desc lang="pt">Criado em 2016, o Nosso canto nosso chão tem como foco principal desbravar as belezas do Nordeste e as curiosidades de cada região, tendo como foco a valorização da religiosidade do povo nordestino(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226020000 -0300" stop="20190226030000 -0300" channel="Canção Nova">
+    <title lang="pt">Canção Nova Sertaneja</title>
+    <desc lang="pt">Programa sertanejo voltado a música de raiz e evangelização(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226030000 -0300" stop="20190226033000 -0300" channel="Canção Nova">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226033000 -0300" stop="20190226040000 -0300" channel="Canção Nova">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">Ou0027'Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226040000 -0300" stop="20190226041500 -0300" channel="Canção Nova">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226041500 -0300" stop="20190226050000 -0300" channel="Canção Nova">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226050000 -0300" stop="20190226060000 -0300" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <desc lang="pt">Pregações baseadas na Palavra de Deus, realizadas em encontros de espiritualidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226060000 -0300" stop="20190226063300 -0300" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">O Rosário é a oração mais popular dedicada a Maria, a mãe de Jesus. Nele, se meditam verdades da fé cristã, mistérios Gloriosos, Gozosos, Dolorosos e Luminosos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226063300 -0300" stop="20190226064000 -0300" channel="Canção Nova">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <desc lang="pt">Reflexão bíblica aplicada de forma prática para o cotidiano da vida das pessoas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226064000 -0300" stop="20190226070000 -0300" channel="Canção Nova">
+    <title lang="pt">Salmos</title>
+    <desc lang="pt">O programa promove um momento de meditação conduzido por Dom João Justino de Medeiros e conta com a participação de Allyson Castro e das monjas do Mosteiro Nossa Senhora das Graças(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226070000 -0300" stop="20190226074700 -0300" channel="Canção Nova">
+    <title lang="pt">Santa Missa do Santuário Pai das Misericórdias</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226074700 -0300" stop="20190226080000 -0300" channel="Canção Nova">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226080000 -0300" stop="20190226093000 -0300" channel="Canção Nova">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <desc lang="pt">Proposta de começar bem o dia com ânimo, bom humor e esperança(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226093000 -0300" stop="20190226093800 -0300" channel="Canção Nova">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <desc lang="pt">Reflexão bíblica aplicada de forma prática para o cotidiano da vida das pessoas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226093800 -0300" stop="20190226094500 -0300" channel="Canção Nova">
+    <title lang="pt">Cmc - Os Sentidos da Terra Santa: Solo Santo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226094500 -0300" stop="20190226104700 -0300" channel="Canção Nova">
+    <title lang="pt">Manhã Viva</title>
+    <desc lang="pt">Revista jornalística que aborda temas relacionados à saúde, culinária, artesanato, beleza, nutrição, meio ambiente, família e atualidades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226104700 -0300" stop="20190226110000 -0300" channel="Canção Nova">
+    <title lang="pt">Cmc - Os Sentidos da Terra Santa: Sabores e Aromas</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226110000 -0300" stop="20190226120000 -0300" channel="Canção Nova">
+    <title lang="pt">O Amor Vencerá</title>
+    <desc lang="pt">Programa voltado à esperança, superação das dificuldades, angústias, sofrimentos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226120000 -0300" stop="20190226130000 -0300" channel="Canção Nova">
+    <title lang="pt">Trocando Ideias</title>
+    <desc lang="pt">Ricardo Sá, e convidados recebem perguntas por telefone, e-mail e twitter sempre aconselhando e indicando bons livros e oportunidades para se aprofundar nos assuntos abordados(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226130000 -0300" stop="20190226140000 -0300" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar - Pe. Fabio de Melo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226140000 -0300" stop="20190226144700 -0300" channel="Canção Nova">
+    <title lang="pt">Juntos Somos Mais</title>
+    <desc lang="pt">Um programa dinâmico, interativo, alegre e espontâneo que anima as tardes da TV com músicas, entrevistas e bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226144700 -0300" stop="20190226150000 -0300" channel="Canção Nova">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226150000 -0300" stop="20190226153000 -0300" channel="Canção Nova">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226153000 -0300" stop="20190226160000 -0300" channel="Canção Nova">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">Ou0027'Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226160000 -0300" stop="20190226163000 -0300" channel="Canção Nova">
+    <title lang="pt">Terra Santa News</title>
+    <desc lang="pt">Traz as principais notícias do Oriente Médio(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226163000 -0300" stop="20190226170000 -0300" channel="Canção Nova">
+    <title lang="pt">Fazendo Esperança</title>
+    <desc lang="pt">Programa de Assistência e recuperação de viciados(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226170000 -0300" stop="20190226172800 -0300" channel="Canção Nova">
+    <title lang="pt">Cantinho da Criança</title>
+    <desc lang="pt">Espaço para as crianças, com aventuras e grandes descobertas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226172800 -0300" stop="20190226173000 -0300" channel="Canção Nova">
+    <title lang="pt">Flash do Jornalismo</title>
+    <desc lang="pt">O(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226173000 -0300" stop="20190226175000 -0300" channel="Canção Nova">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <desc lang="pt">Em foco a Bíblia, o livro sagrado para os cristãos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226175000 -0300" stop="20190226183000 -0300" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">O Rosário é a oração mais popular dedicada a Maria, a mãe de Jesus. Nele, se meditam verdades da fé cristã, mistérios Gloriosos, Gozosos, Dolorosos e Luminosos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226183000 -0300" stop="20190226183800 -0300" channel="Canção Nova">
+    <title lang="pt">Parábolas de Corações Especiais</title>
+    <desc lang="pt">O programa é uma parceria com a Comunidade Católica Jesus Menino, de Petrópolis/RJ, que acolhe e adota crianças e jovens especiais abandonados(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226183800 -0300" stop="20190226184500 -0300" channel="Canção Nova">
+    <title lang="pt">Caminhos de Unidade</title>
+    <desc lang="pt">Reflexão sobre a Unidade na humanidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226184500 -0300" stop="20190226193000 -0300" channel="Canção Nova">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226193000 -0300" stop="20190226200000 -0300" channel="Canção Nova">
+    <title lang="pt">Na Escola de Nazaré</title>
+    <desc lang="pt">Diretamente de Nazaré, local onde Jesus cresceu, os Franciscanos da Terra Santa apresentam uma reflexão sobre a espiritualidade deste lugar sagrado(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226200000 -0300" stop="20190226210000 -0300" channel="Canção Nova">
+    <title lang="pt">Para Ser Feliz</title>
+    <desc lang="pt">A atração será voltada aos testemunhos e reflexões sobre a vida. O objetivo é instigar as pessoas a analisarem suas próprias vidas e, diante das diferentes realidades vividas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226210000 -0300" stop="20190226213000 -0300" channel="Canção Nova">
+    <title lang="pt">Daí-me Almas Especial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226213000 -0300" stop="20190227003000 -0300" channel="Canção Nova">
+    <title lang="pt">Especial de Campanha</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227003000 -0300" stop="20190227013000 -0300" channel="Canção Nova">
+    <title lang="pt">O Amor Vencerá</title>
+    <desc lang="pt">Programa voltado à esperança, superação das dificuldades, angústias, sofrimentos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227013000 -0300" stop="20190227020000 -0300" channel="Canção Nova">
+    <title lang="pt">Mais Saúde</title>
+    <desc lang="pt">Programa apresentado pela nutricionista clínica, Dra. Gisela Savioli, abordando temas como saúde, qualidade de vida e educação alimentar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227020000 -0300" stop="20190227030000 -0300" channel="Canção Nova">
+    <title lang="pt">Minha Família é Assim</title>
+    <desc lang="pt">emas como educação, relacionamentos do casal e entre pais e filhos, saúde e comportamento da família e espiritualidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227030000 -0300" stop="20190227033000 -0300" channel="Canção Nova">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227033000 -0300" stop="20190227040000 -0300" channel="Canção Nova">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">Ou0027'Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227040000 -0300" stop="20190227041500 -0300" channel="Canção Nova">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227041500 -0300" stop="20190227050000 -0300" channel="Canção Nova">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227050000 -0300" stop="20190227060000 -0300" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <desc lang="pt">Pregações baseadas na Palavra de Deus, realizadas em encontros de espiritualidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227060000 -0300" stop="20190227063200 -0300" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">O Rosário é a oração mais popular dedicada a Maria, a mãe de Jesus. Nele, se meditam verdades da fé cristã, mistérios Gloriosos, Gozosos, Dolorosos e Luminosos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227063200 -0300" stop="20190227063800 -0300" channel="Canção Nova">
+    <title lang="pt">Igreja a Caminho</title>
+    <desc lang="pt">Reflexões sobre ações fraternas, inspiradas na fé(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227063800 -0300" stop="20190227064500 -0300" channel="Canção Nova">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <desc lang="pt">Reflexão bíblica aplicada de forma prática para o cotidiano da vida das pessoas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227064500 -0300" stop="20190227070000 -0300" channel="Canção Nova">
+    <title lang="pt">Salmos</title>
+    <desc lang="pt">O programa promove um momento de meditação conduzido por Dom João Justino de Medeiros e conta com a participação de Allyson Castro e das monjas do Mosteiro Nossa Senhora das Graças(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227070000 -0300" stop="20190227074700 -0300" channel="Canção Nova">
+    <title lang="pt">Santa Missa do Santuário Pai das Misericórdias</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227074700 -0300" stop="20190227080000 -0300" channel="Canção Nova">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227080000 -0300" stop="20190227093000 -0300" channel="Canção Nova">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <desc lang="pt">Proposta de começar bem o dia com ânimo, bom humor e esperança(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227093000 -0300" stop="20190227093800 -0300" channel="Canção Nova">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <desc lang="pt">Reflexão bíblica aplicada de forma prática para o cotidiano da vida das pessoas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227093800 -0300" stop="20190227094500 -0300" channel="Canção Nova">
+    <title lang="pt">Cmc - O Campo dos Pastores</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227094500 -0300" stop="20190227104700 -0300" channel="Canção Nova">
+    <title lang="pt">Manhã Viva</title>
+    <desc lang="pt">Revista jornalística que aborda temas relacionados à saúde, culinária, artesanato, beleza, nutrição, meio ambiente, família e atualidades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227104700 -0300" stop="20190227110000 -0300" channel="Canção Nova">
+    <title lang="pt">Cmc - Curso Biblico</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227110000 -0300" stop="20190227120000 -0300" channel="Canção Nova">
+    <title lang="pt">O Amor Vencerá</title>
+    <desc lang="pt">Programa voltado à esperança, superação das dificuldades, angústias, sofrimentos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227120000 -0300" stop="20190227130000 -0300" channel="Canção Nova">
+    <title lang="pt">Catequese</title>
+    <desc lang="pt">Transmissão semanal, direto de Roma, da Audiência Geral com o Papa Francisco. O Sumo Pontífice realiza ciclos de catequeses com mensagens direcionadas aos fiéis de várias localidades, inclusive os de língua portuguesa(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227130000 -0300" stop="20190227140000 -0300" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <desc lang="pt">Pregações baseadas na Palavra de Deus, realizadas em encontros de espiritualidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227140000 -0300" stop="20190227144700 -0300" channel="Canção Nova">
+    <title lang="pt">Juntos Somos Mais</title>
+    <desc lang="pt">Um programa dinâmico, interativo, alegre e espontâneo que anima as tardes da TV com músicas, entrevistas e bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227144700 -0300" stop="20190227150000 -0300" channel="Canção Nova">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227150000 -0300" stop="20190227153000 -0300" channel="Canção Nova">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227153000 -0300" stop="20190227160000 -0300" channel="Canção Nova">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">Ou0027'Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227160000 -0300" stop="20190227170000 -0300" channel="Canção Nova">
+    <title lang="pt">Pergunte e Responderemos</title>
+    <desc lang="pt">Professor Felipe Aquino responde perguntas sobre assuntos relacionados à Igreja e temas de interesse da família cristã(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227170000 -0300" stop="20190227172800 -0300" channel="Canção Nova">
+    <title lang="pt">Cantinho da Criança</title>
+    <desc lang="pt">Espaço para as crianças, com aventuras e grandes descobertas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227172800 -0300" stop="20190227173000 -0300" channel="Canção Nova">
+    <title lang="pt">Flash do Jornalismo</title>
+    <desc lang="pt">O(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227173000 -0300" stop="20190227175000 -0300" channel="Canção Nova">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <desc lang="pt">Em foco a Bíblia, o livro sagrado para os cristãos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227175000 -0300" stop="20190227183000 -0300" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">O Rosário é a oração mais popular dedicada a Maria, a mãe de Jesus. Nele, se meditam verdades da fé cristã, mistérios Gloriosos, Gozosos, Dolorosos e Luminosos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227183000 -0300" stop="20190227183800 -0300" channel="Canção Nova">
+    <title lang="pt">O Vídeo do Papa</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227183800 -0300" stop="20190227184500 -0300" channel="Canção Nova">
+    <title lang="pt">Caminhos de Unidade</title>
+    <desc lang="pt">Reflexão sobre a Unidade na humanidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227184500 -0300" stop="20190227193000 -0300" channel="Canção Nova">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227193000 -0300" stop="20190227200000 -0300" channel="Canção Nova">
+    <title lang="pt">Deus Proverá</title>
+    <desc lang="pt">Institucional com prestação de contas da Obra Canção Nova com seu público. Os quadros demonstram os investimentos realizados: as construções e eventos promovidos, reformas e ações sociais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227200000 -0300" stop="20190227220000 -0300" channel="Canção Nova">
+    <title lang="pt">Santa Missa do Clube da Evangelização</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227220000 -0300" stop="20190227230000 -0300" channel="Canção Nova">
+    <title lang="pt">Direção Espiritual: Pe. Fabio de Melo</title>
+    <desc lang="pt">Num ambiente de reflexão e acolhimento, a orientação espiritual é dirigida ao público que, interage pelo telefone, e-mail e mídias sociais pedindo aconselhamento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
