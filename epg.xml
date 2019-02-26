@@ -4,6 +4,14 @@
     <display-name lang="pt">Canção Nova</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RECORD">
+    <display-name lang="pt">RECORD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
   <programme start="20190226000000 -0300" stop="20190226010000 -0300" channel="Canção Nova">
     <title lang="pt">O Amor Vencerá</title>
     <desc lang="pt">Programa voltado à esperança, superação das dificuldades, angústias, sofrimentos(n)</desc>
@@ -525,6 +533,907 @@
   <programme start="20190227220000 -0300" stop="20190227230000 -0300" channel="Canção Nova">
     <title lang="pt">Direção Espiritual: Pe. Fabio de Melo</title>
     <desc lang="pt">Num ambiente de reflexão e acolhimento, a orientação espiritual é dirigida ao público que, interage pelo telefone, e-mail e mídias sociais pedindo aconselhamento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226000000 -0300" stop="20190226003000 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+    <desc lang="pt">O que foi destaque ao longo do dia e o que será manchete amanhã(n)</desc>
+    <credits>
+      <actor>Erick Bang</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226003000 -0300" stop="20190226010000 -0300" channel="Globo">
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
+    <desc lang="pt">Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226010000 -0300" stop="20190226013000 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição das 01h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226013000 -0300" stop="20190226030000 -0300" channel="Globo">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226030000 -0300" stop="20190226030500 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição das 03h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226030500 -0300" stop="20190226033000 -0300" channel="Globo">
+    <title lang="pt">GloboNews Especial</title>
+    <desc lang="pt">Um tema diferente a cada semana, mas sempre a certeza de uma grande reportagem. Opiniões diferentes sobre questões polêmicas da sociedade ou mesmo detalhes pouco conhecidos de acontecimentos que marcaram a história(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226033000 -0300" stop="20190226040000 -0300" channel="Globo">
+    <title lang="pt">Fernando Gabeira</title>
+    <desc lang="pt">Um mosaico que reflete a imagem do Brasil. Fernando Gabeira vai a lugares diferentes e trata de temas singelos ou espinhosos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226040000 -0300" stop="20190226040500 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição das 04h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226040500 -0300" stop="20190226043000 -0300" channel="Globo">
+    <title lang="pt">Milênio</title>
+    <desc lang="pt">Um programa de ideias, que traz os pontos de vista de expoentes de várias áreas do conhecimento e da cultura para pensar o mundo contemporâneo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226043000 -0300" stop="20190226050000 -0300" channel="Globo">
+    <title lang="pt">Cidades e Soluções</title>
+    <desc lang="pt">Iniciativas bem sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226050000 -0300" stop="20190226060000 -0300" channel="Globo">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226060000 -0300" stop="20190226090000 -0300" channel="Globo">
+    <title lang="pt">Globonews Em Ponto - Ao Vivo</title>
+    <desc lang="pt">Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226090000 -0300" stop="20190226100000 -0300" channel="Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226100000 -0300" stop="20190226130000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <desc lang="pt">Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226130000 -0300" stop="20190226160000 -0300" channel="Globo">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+    <desc lang="pt">Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226160000 -0300" stop="20190226180000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+    <desc lang="pt">Direto do Estúdio da GloboNews, em São Paulo, o Edição das 16 horas traz as principais notícias da tarde e a repercussão no Brasil e no mundo de todos os assuntos do dia(n)</desc>
+    <credits>
+      <actor>Christiane Pelajo</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226180000 -0300" stop="20190226200000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226200000 -0300" stop="20190226213000 -0300" channel="Globo">
+    <title lang="pt">GloboNews em Pauta - Vivo</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226213000 -0300" stop="20190226220000 -0300" channel="Globo">
+    <title lang="pt">O Melhor do Brasil é o Brasileiro</title>
+    <desc lang="pt">A criatividade do brasileiro será o tema de uma série de quatro episódios, que estreia em fevereiro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226220000 -0300" stop="20190226230000 -0300" channel="Globo">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226230000 -0300" stop="20190226233000 -0300" channel="Globo">
+    <title lang="pt">Entre Aspas - Ao Vivo</title>
+    <desc lang="pt">Entrevistados de opiniões diferentes e as diversas visões na sociedade que vão da política ao comportamento, da cultura às questões jurídicas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226233000 -0300" stop="20190227001500 -0300" channel="Globo">
+    <title lang="pt">GloboNews Internacional</title>
+    <desc lang="pt">Uma conversa sobre os principais assuntos internacionais da semana, irreverente, mas sempre com muita informação(n)</desc>
+    <credits>
+      <actor>Dony De Nuccio</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227001500 -0300" stop="20190227011500 -0300" channel="Globo">
+    <title lang="pt">Grande Hotel</title>
+    <desc lang="pt">Nesta nova temporada, o Grande Hotel conta com novos personagens que vão adicionar ainda mais emoção à trama. Alicia, recém-casada, terá que lidar com a presença de Julio que decidiu não voltar à sua cidade(n)</desc>
+    <credits>
+      <director>Sílvia Quer</director>
+      <actor>Adriana Ozores</actor>
+      <actor>Amaia Salamanca</actor>
+      <actor>Yon González</actor>
+      <actor>Concha Velasco</actor>
+      <actor>Eloy Azorín</actor>
+      <actor>Luz Valdenebro</actor>
+      <actor>Pedro Alonso</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190227011500 -0300" stop="20190227020500 -0300" channel="Globo">
+    <title lang="pt">A Vida de Nina: Piada Ruim</title>
+    <desc lang="pt">Nina passa mal no hospital e Leo desconfia de que ela esteja grávida. Antonakis descobre as novidades por Leo, e se chateia com Nina. Leo se envolve com um paciente(n)</desc>
+    <credits>
+      <director>Nicolas Picard</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190227020500 -0300" stop="20190227030000 -0300" channel="Globo">
+    <title lang="pt">Mistérios do Detetive Murdoch: De Buffalo, Com Amor</title>
+    <desc lang="pt">Nos anos 80, William Murdoch utiliza técnicas avançadas para seu tempo para resolver mistérios de assassinatos violentos(n)</desc>
+    <credits>
+      <director>Peter Mitchell</director>
+      <actor>Helene Joy</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Lachlan Murdoch</actor>
+      <actor>Peter Mitchell</actor>
+      <actor>Hannah Cheesman</actor>
+      <actor>Austin Di Iulio</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S9 E17</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190227030000 -0300" stop="20190227040000 -0300" channel="Globo">
+    <title lang="pt">Grande Hotel: Um Choro à Noite</title>
+    <desc lang="pt">Julio não se conforma em ver que Alfredo, após ter sido condenado pela morte de sua irmã, está de volta ao Grande Hotel. Andrés está em perigo e Julio precisa da ajuda de Alicia para tentar protegê-lo(n)</desc>
+    <credits>
+      <director>Carlos Sedes</director>
+      <actor>Adriana Ozores</actor>
+      <actor>Amaia Salamanca</actor>
+      <actor>Yon González</actor>
+      <actor>Concha Velasco</actor>
+      <actor>Eloy Azorín</actor>
+      <actor>Luz Valdenebro</actor>
+      <actor>Pedro Alonso</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190227040000 -0300" stop="20190227045500 -0300" channel="Globo">
+    <title lang="pt">Áustria Vista de Cima: O Sul</title>
+    <desc lang="pt">Áustria vista de cima através de imagens de drones e helicopteros(n)</desc>
+    <credits>
+      <director>Georg Riha</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227045500 -0300" stop="20190227053000 -0300" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Fronteira com o Uruguai</title>
+    <desc lang="pt">O Brasil Visto de Cima vai ao Rio Grande do Sul e passa por lugares pra lá de interessantes, mas ainda desconhecidos por grande parte do nosso povo. Uma região extraordinariamente bela e diversificada(n)</desc>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227053000 -0300" stop="20190227060000 -0300" channel="Globo">
+    <title lang="pt">Aero: Por Trás Da Aviação: Fábrica de Helicópteros,</title>
+    <desc lang="pt">O Aero participa de um curso de sobrevivência na selva. O programa visita a única fabricante de helicópteros do Brasil, realiza um curso de sobrevivência na selva e mostra como são os procedimentos de pouso e decolagem(n)</desc>
+    <credits>
+      <director>Fernando De Borthole</director>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227060000 -0300" stop="20190227063000 -0300" channel="Globo">
+    <title lang="pt">Fora da Caixa: À Beira Mar</title>
+    <desc lang="pt">Ian e Caio Vaz transformam a praia em escritório enquanto deixam sua marca na moda surf. Já Hugo Galindo faz moda sustentável para os dias de sol, com óculos autênticos e cheios de história(n)</desc>
+    <credits>
+      <director>João Pedro Januário</director>
+      <director>Benedita Casé Zerbini</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227063000 -0300" stop="20190227070000 -0300" channel="Globo">
+    <title lang="pt">Essa É Minha Família</title>
+    <desc lang="pt">Vamos mostrar como o sucesso de um atleta mudou a vida de sua família. Os ganhos financeiros, uma casa mais confortável, outro bairro (ou não), carros, móveis, viagens(n)</desc>
+    <credits>
+      <director>Marcia Leite</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227070000 -0300" stop="20190227073000 -0300" channel="Globo">
+    <title lang="pt">Hotéis Incríveis: Piscinas Incríveis</title>
+    <desc lang="pt">No oitavo episódio, piscinas roubam a cena em três hotéis incríveis: um na pequena Ennetbürgen, Alpes Suíços, um em São Paulo e outro no Rio de Janeiro(n)</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227073000 -0300" stop="20190227080000 -0300" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Rota Dos Vinhos</title>
+    <desc lang="pt">No nordeste do Rio Grande do Sul, erguem-se montanhas de até 1,3 mil metros de altura. Parte da região foi ocupada por italianos no fim do século 19. A marca deixada pelos imigrantes permanece até hoje(n)</desc>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227080000 -0300" stop="20190227090000 -0300" channel="Globo">
+    <title lang="pt">Áustria Vista de Cima: O Sul</title>
+    <desc lang="pt">Áustria vista de cima através de imagens de drones e helicopteros(n)</desc>
+    <credits>
+      <director>Georg Riha</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227090000 -0300" stop="20190227093000 -0300" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Fronteira com o Uruguai</title>
+    <desc lang="pt">O Brasil Visto de Cima vai ao Rio Grande do Sul e passa por lugares pra lá de interessantes, mas ainda desconhecidos por grande parte do nosso povo. Uma região extraordinariamente bela e diversificada(n)</desc>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227093000 -0300" stop="20190227100000 -0300" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Serra da Bocaina</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <episode-num system="onscreen">S4 E25</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227100000 -0300" stop="20190227103000 -0300" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Rota Dos Vinhos</title>
+    <desc lang="pt">No nordeste do Rio Grande do Sul, erguem-se montanhas de até 1,3 mil metros de altura. Parte da região foi ocupada por italianos no fim do século 19. A marca deixada pelos imigrantes permanece até hoje(n)</desc>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227103000 -0300" stop="20190227110000 -0300" channel="Globo">
+    <title lang="pt">Destino Certo: Turismo Religioso</title>
+    <desc lang="pt">A cada episódio, o programa comandado pela Mel Fronckowiak mostra uma lista com atividades e passeios mais impressionantes que os viajantes podem fazer pelas cidades escolhidas nos seus roteiros(n)</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227110000 -0300" stop="20190227113000 -0300" channel="Globo">
+    <title lang="pt">Essa É Minha Família</title>
+    <desc lang="pt">Vamos mostrar como o sucesso de um atleta mudou a vida de sua família. Os ganhos financeiros, uma casa mais confortável, outro bairro (ou não), carros, móveis, viagens(n)</desc>
+    <credits>
+      <director>Marcia Leite</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227113000 -0300" stop="20190227120000 -0300" channel="Globo">
+    <title lang="pt">Fora da Caixa: À Beira Mar</title>
+    <desc lang="pt">Ian e Caio Vaz transformam a praia em escritório enquanto deixam sua marca na moda surf. Já Hugo Galindo faz moda sustentável para os dias de sol, com óculos autênticos e cheios de história(n)</desc>
+    <credits>
+      <director>João Pedro Januário</director>
+      <director>Benedita Casé Zerbini</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227120000 -0300" stop="20190227123000 -0300" channel="Globo">
+    <title lang="pt">Escola de Pilotos: Mudança de Ares</title>
+    <credits>
+      <director>Belisário Franca</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227123000 -0300" stop="20190227130500 -0300" channel="Globo">
+    <title lang="pt">Risco Total: Contra a Natureza - Atletas</title>
+    <desc lang="pt">A busca por emoção e adrenalina impulsiona a humanidade a desafiar toda a força do planeta(n)</desc>
+    <credits>
+      <director>Pablo Nery French</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227130500 -0300" stop="20190227140000 -0300" channel="Globo">
+    <title lang="pt">Grande Hotel: O Segredo</title>
+    <desc lang="pt">Julio descobre o conteúdo da misteriosa carta pela qual sua irmã foi morta e precisa contar a Alicia. A mãe de Alfredo faz de tudo para comprovar que Dona Teresa fez um pacto para que Belém desse seu filho à Sofia(n)</desc>
+    <credits>
+      <director>Carlos Sedes</director>
+      <actor>Adriana Ozores</actor>
+      <actor>Amaia Salamanca</actor>
+      <actor>Yon González</actor>
+      <actor>Concha Velasco</actor>
+      <actor>Eloy Azorín</actor>
+      <actor>Luz Valdenebro</actor>
+      <actor>Pedro Alonso</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190227140000 -0300" stop="20190227150000 -0300" channel="Globo">
+    <title lang="pt">Mistérios do Detetive Murdoch: De Buffalo, Com Amor</title>
+    <desc lang="pt">Nos anos 80, William Murdoch utiliza técnicas avançadas para seu tempo para resolver mistérios de assassinatos violentos(n)</desc>
+    <credits>
+      <director>Peter Mitchell</director>
+      <actor>Helene Joy</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Lachlan Murdoch</actor>
+      <actor>Peter Mitchell</actor>
+      <actor>Hannah Cheesman</actor>
+      <actor>Austin Di Iulio</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S9 E17</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190227150000 -0300" stop="20190227160000 -0300" channel="Globo">
+    <title lang="pt">A Vida de Nina: Piada Ruim</title>
+    <desc lang="pt">Nina passa mal no hospital e Leo desconfia de que ela esteja grávida. Antonakis descobre as novidades por Leo, e se chateia com Nina. Leo se envolve com um paciente(n)</desc>
+    <credits>
+      <director>Nicolas Picard</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190227160000 -0300" stop="20190227171500 -0300" channel="Globo">
+    <title lang="pt">O Ministério do Tempo: Tempos Picarescos</title>
+    <desc lang="pt">A equipe é chamada para investigar um celular achado por arqueólogos numa escavação do século XVI. A suspeita recai sobre um político corrupto do século XXI(n)</desc>
+    <credits>
+      <director>Javier Olivares</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190227171500 -0300" stop="20190227180000 -0300" channel="Globo">
+    <title lang="pt">Grande Hotel</title>
+    <desc lang="pt">Nesta nova temporada, o Grande Hotel conta com novos personagens que vão adicionar ainda mais emoção à trama. Alicia, recém-casada, terá que lidar com a presença de Julio que decidiu não voltar à sua cidade(n)</desc>
+    <credits>
+      <director>Sílvia Quer</director>
+      <actor>Adriana Ozores</actor>
+      <actor>Amaia Salamanca</actor>
+      <actor>Yon González</actor>
+      <actor>Concha Velasco</actor>
+      <actor>Eloy Azorín</actor>
+      <actor>Luz Valdenebro</actor>
+      <actor>Pedro Alonso</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190227180000 -0300" stop="20190227183000 -0300" channel="Globo">
+    <title lang="pt">Aero: Por Trás Da Aviação: Apartamento Avião e Maior</title>
+    <desc lang="pt">O Aero voa no maior monomotor do mundo, o avião soviético Antonov AN2, e encontra um apaixonado por aviação que transformou seu apartamento em um avião(n)</desc>
+    <credits>
+      <director>Fernando de Borthole</director>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227183000 -0300" stop="20190227190000 -0300" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Serra da Bocaina</title>
+    <desc lang="pt">Nesta temporada, Brasil Visto de Cima sobrevoa todas as regiões do país. Lugares famosos e pontos espetaculares ainda pouco conhecidos. Uma viagem para encantar-se com as muitas belezas do Brasil(n)</desc>
+    <episode-num system="onscreen">S4 E25</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227190000 -0300" stop="20190227193000 -0300" channel="Globo">
+    <title lang="pt">Encuentros en Brasil: Curitiba</title>
+    <desc lang="pt">O músico Paulinho Moska recebe seis cantores latino-americanos que visitam diferentes cidades do Brasil. Neste episódio, a mexicana Natalia Lafourcade visita Curitiba para conhecer a cultura e as paisagens(n)</desc>
+    <credits>
+      <actor>Paulinho Moska</actor>
+      <actor>Luciano Oreggia</actor>
+      <actor>Natalia Lafourcade</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227193000 -0300" stop="20190227200000 -0300" channel="Globo">
+    <title lang="pt">Sobre as Asas: Do Sertão ao Pantanal</title>
+    <desc lang="pt">Neste episódio de Sobre As Asas: Max e Amanda conhecem Uruana de Minas, em Minas Gerais e sobrevoam o Parque Nacional Grande Sertão Veredas. A segunda parada é no Pantanal Mato-Grossense(n)</desc>
+    <credits>
+      <director>Max Fercondini</director>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227200000 -0300" stop="20190227203000 -0300" channel="Globo">
+    <title lang="pt">Destino Certo: Bairros Revitalizados</title>
+    <desc lang="pt">A cada episódio, o programa comandado pela Mel Fronckowiak mostra uma lista com atividades e passeios mais impressionantes que os viajantes podem fazer pelas cidades escolhidas nos seus roteiros(n)</desc>
+    <credits>
+      <director>Jorge Nassaralla</director>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227203000 -0300" stop="20190227210000 -0300" channel="Globo">
+    <title lang="pt">Sonho e Destino: Santa Catarina - Parte 2</title>
+    <desc lang="pt">Neste episódio de Sonho e Destino, Gisella e Fernando vão mostrar o hotel que estão hospedados e almoçar em um barbecue a céu aberto. Eles ainda conhecem o Parque Unipraias, em Balneário Camboriú(n)</desc>
+    <credits>
+      <director>Fernando de Borthole</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227210000 -0300" stop="20190227213000 -0300" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Norte do RS</title>
+    <desc lang="pt">O norte do Rio Grande do Sul abriga cidades importantes como Passo Fundo e Erechim, cercadas de campos cultivados e parques florestais. Junto à fronteira com a Argentina, espera por nós o deslumbrante Salto do Yacumã(n)</desc>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227213000 -0300" stop="20190227220000 -0300" channel="Globo">
+    <title lang="pt">Brasil Visto de Cima: Costa Do Descobrimento</title>
+    <desc lang="pt">É pela costa do Descobrimento, na Bahia, onde o Brasil teve início, que a segunda temporada do Brasil Visto de Cima chega com tudo. A terra vista pelos primeiros navegadores portugueses é espetacular(n)</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227220000 -0300" stop="20190227230000 -0300" channel="Globo">
+    <title lang="pt">Espanha Vista de Cima: Costa Espanhola e Praias</title>
+    <desc lang="pt">Prepare-se para um passeio sobre a Espanha de rochedos imponentes, campos verdejantes, praias paradisíacas e belas cidades. Na primeira parte deste voo você conhecerá o deslumbrante litoral espanhol e suas ilhas(n)</desc>
+    <credits>
+      <director>Mariza Munõz</director>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227230000 -0300" stop="20190228000000 -0300" channel="Globo">
+    <title lang="pt">O Ministério do Tempo: Tempo de Vingança</title>
+    <desc lang="pt">Armando Leiva forja sua morte e está prestes a atacar o Ministério, em 1844, quando recebe a visita da Rainha Isabel II, ainda criança(n)</desc>
+    <credits>
+      <director>Javier Olivares</director>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190226001500 -0300" stop="20190226011500 -0300" channel="RECORD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">A série acompanha o dia-a-dia de um grupo de médicos e enfermeiros de um hospital de Chicago. Entre eles, a Dra. Hannah Tremble, uma fria e brilhante cirurgiã, a diretora Sharon Goodwin(n)</desc>
+    <credits>
+      <actor>Brian Tee</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>S. Epatha Merkerson</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Nick Gehlfuss</actor>
+      <actor>Torrey DeVitto</actor>
+      <actor>Rachel DiPillo</actor>
+      <actor>Kara Killmer</actor>
+      <actor>Marlyne Barrett</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190226011500 -0300" stop="20190226021500 -0300" channel="RECORD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Comandado por Renato Cardoso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226021500 -0300" stop="20190226031500 -0300" channel="RECORD">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226031500 -0300" stop="20190226060000 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226060000 -0300" stop="20190226063000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226063000 -0300" stop="20190226070000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226070000 -0300" stop="20190226085500 -0300" channel="RECORD">
+    <title lang="pt">SP no Ar</title>
+    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226085500 -0300" stop="20190226100000 -0300" channel="RECORD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226100000 -0300" stop="20190226120000 -0300" channel="RECORD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226120000 -0300" stop="20190226150000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226150000 -0300" stop="20190226154500 -0300" channel="RECORD">
+    <title lang="pt">Bela, a Feia</title>
+    <desc lang="pt">Bela, a Feia conta a história de Anabela Palhares, uma mulher modesta de 26 anos. A moça não tem muitos amigos, somente Luzia e Hortência, com quem compartilha seus sentimentos(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190226154500 -0300" stop="20190226164500 -0300" channel="RECORD">
+    <title lang="pt">Essas Mulheres</title>
+    <desc lang="pt">A novela se passa na cidade do RJ. Três amigas, Aurélia, Lúcia e Mila, freqüentam aulas de uma professora progressista que ensina francês e música. O destino acaba separando-as, mas elas continuam ligadas(n)</desc>
+    <credits>
+      <director>João Camargo</director>
+      <director>Flávio Colatrello Jr</director>
+      <actor>Paulo Gorgulho</actor>
+      <actor>Ana Rosa</actor>
+      <actor>Ewerton de Castro</actor>
+      <actor>Christine Fernandes</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226164500 -0300" stop="20190226195000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226195000 -0300" stop="20190226204500 -0300" channel="RECORD">
+    <title lang="pt">A Terra Prometida</title>
+    <desc lang="pt">Após a morte de Moisés, Josué é o novo líder dos hebreus. Ele é um guerreiro experiente, dotado de coragem, determinação e de uma fé poderosa. Mas não é tarefa fácil conduzir um povo ao seu destino(n)</desc>
+    <credits>
+      <actor>Sidney Sampaio</actor>
+      <actor>Alexandre Slaviero</actor>
+      <actor>Altair Rodrigues</actor>
+      <actor>Ana Barroso</actor>
+      <actor>Andre Ramiro</actor>
+      <actor>Amando Amaral</actor>
+      <actor>Bernardo Velasco</actor>
+      <actor>Beth Goulart</actor>
+      <actor>Brenda Haddad</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190226204500 -0300" stop="20190226214500 -0300" channel="RECORD">
+    <title lang="pt">Jesus</title>
+    <desc lang="pt">A trama irá mostrar a vida e época de Jesus como se estivéssemos lá, no momento em que Ele andava pela Terra(n)</desc>
+    <credits>
+      <director>Edgard Miranda</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190226214500 -0300" stop="20190226223000 -0300" channel="RECORD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190226223000 -0300" stop="20190227001500 -0300" channel="RECORD">
+    <title lang="pt">Cine Record Especial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190227001500 -0300" stop="20190227011500 -0300" channel="RECORD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">A série acompanha o dia-a-dia de um grupo de médicos e enfermeiros de um hospital de Chicago. Entre eles, a Dra. Hannah Tremble, uma fria e brilhante cirurgiã, a diretora Sharon Goodwin(n)</desc>
+    <credits>
+      <actor>Brian Tee</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>S. Epatha Merkerson</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Nick Gehlfuss</actor>
+      <actor>Torrey DeVitto</actor>
+      <actor>Rachel DiPillo</actor>
+      <actor>Kara Killmer</actor>
+      <actor>Marlyne Barrett</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190227011500 -0300" stop="20190227021500 -0300" channel="RECORD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Comandado por Renato Cardoso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227021500 -0300" stop="20190227031500 -0300" channel="RECORD">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227031500 -0300" stop="20190227060000 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227060000 -0300" stop="20190227063000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227063000 -0300" stop="20190227070000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227070000 -0300" stop="20190227085500 -0300" channel="RECORD">
+    <title lang="pt">SP no Ar</title>
+    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227085500 -0300" stop="20190227100000 -0300" channel="RECORD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227100000 -0300" stop="20190227120000 -0300" channel="RECORD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227120000 -0300" stop="20190227150000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227150000 -0300" stop="20190227154500 -0300" channel="RECORD">
+    <title lang="pt">Bela, a Feia</title>
+    <desc lang="pt">Bela, a Feia conta a história de Anabela Palhares, uma mulher modesta de 26 anos. A moça não tem muitos amigos, somente Luzia e Hortência, com quem compartilha seus sentimentos(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190227154500 -0300" stop="20190227164500 -0300" channel="RECORD">
+    <title lang="pt">Essas Mulheres</title>
+    <desc lang="pt">A novela se passa na cidade do RJ. Três amigas, Aurélia, Lúcia e Mila, freqüentam aulas de uma professora progressista que ensina francês e música. O destino acaba separando-as, mas elas continuam ligadas(n)</desc>
+    <credits>
+      <director>João Camargo</director>
+      <director>Flávio Colatrello Jr</director>
+      <actor>Paulo Gorgulho</actor>
+      <actor>Ana Rosa</actor>
+      <actor>Ewerton de Castro</actor>
+      <actor>Christine Fernandes</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227164500 -0300" stop="20190227195000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190227195000 -0300" stop="20190227204500 -0300" channel="RECORD">
+    <title lang="pt">A Terra Prometida</title>
+    <desc lang="pt">Após a morte de Moisés, Josué é o novo líder dos hebreus. Ele é um guerreiro experiente, dotado de coragem, determinação e de uma fé poderosa. Mas não é tarefa fácil conduzir um povo ao seu destino(n)</desc>
+    <credits>
+      <actor>Sidney Sampaio</actor>
+      <actor>Alexandre Slaviero</actor>
+      <actor>Altair Rodrigues</actor>
+      <actor>Ana Barroso</actor>
+      <actor>Andre Ramiro</actor>
+      <actor>Amando Amaral</actor>
+      <actor>Bernardo Velasco</actor>
+      <actor>Beth Goulart</actor>
+      <actor>Brenda Haddad</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190227204500 -0300" stop="20190227214500 -0300" channel="RECORD">
+    <title lang="pt">Jesus</title>
+    <desc lang="pt">A trama irá mostrar a vida e época de Jesus como se estivéssemos lá, no momento em que Ele andava pela Terra(n)</desc>
+    <credits>
+      <director>Edgard Miranda</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190227214500 -0300" stop="20190227223000 -0300" channel="RECORD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
